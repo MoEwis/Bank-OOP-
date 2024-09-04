@@ -1,0 +1,3 @@
+﻿  bank.cpp
+D:\oop\Bank\Bank\bank.cpp(100,1): warning C4715: 'BankManagement::findaccount': not all control paths return a value
+  Bank.vcxproj -> D:\oop\Bank\x64\Debug\Bank.exe
